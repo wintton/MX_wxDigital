@@ -1,0 +1,4 @@
+<!--index.wxml-->
+<view class="container">
+ <canvas canvas-id='moneyshow' style='width:100vw;height:40vh;'></canvas>
+</view>
